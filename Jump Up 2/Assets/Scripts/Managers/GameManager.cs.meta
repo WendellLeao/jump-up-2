@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7b92366649f458a49bea1dfa3ab439f7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - introUI: {fileID: 2624333248829794331, guid: cd8019b07fc69f34db734d4fc3854702,
+      type: 3}
+  - deathUI: {fileID: 8564421884609430542, guid: 3e8332958151053458c78d76499e1de6,
+      type: 3}
+  - heartUI: {fileID: 4324377113721591555, guid: d3128666da9b5274db2639816367e863,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
