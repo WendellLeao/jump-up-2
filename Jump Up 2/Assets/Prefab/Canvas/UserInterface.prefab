@@ -207,7 +207,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: You suck!
+  m_Text: You died!
 --- !u!1 &3499054159196996610
 GameObject:
   m_ObjectHideFlags: 0
@@ -602,12 +602,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 79aef722f7f68e444922789c4f22da6c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  UI:
-    intro: {fileID: 3499054160576913800}
-    death: {fileID: 3499054160443590403}
-    levelCompleted: {fileID: 3499054160966978263}
-    heart: {fileID: 3499054160573985414}
-    tryAgainButton: {fileID: 3499054159196996610}
+  introUI: {fileID: 0}
+  deathUI: {fileID: 0}
+  levelCompletedUI: {fileID: 0}
+  heartUI: {fileID: 0}
+  tryAgainObject: {fileID: 0}
 --- !u!1 &3499054159936286139
 GameObject:
   m_ObjectHideFlags: 0

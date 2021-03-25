@@ -20445,6 +20445,11 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: LoadNextScene
       objectReference: {fileID: 0}
+    - target: {fileID: 3499054158981870685, guid: 7b1125d238d4b3940a1cd52a27339f2d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3499054159196996608, guid: 7b1125d238d4b3940a1cd52a27339f2d,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -20570,6 +20575,34 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3499054160481835992, guid: 7b1125d238d4b3940a1cd52a27339f2d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3499054160481835998, guid: 7b1125d238d4b3940a1cd52a27339f2d,
+        type: 3}
+      propertyPath: m_Text
+      value: 'You finish the game!
+
+
+        Thanks for playing =D'
+      objectReference: {fileID: 0}
+    - target: {fileID: 3499054160481835998, guid: 7b1125d238d4b3940a1cd52a27339f2d,
+        type: 3}
+      propertyPath: m_FontData.m_VerticalOverflow
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3499054160481835998, guid: 7b1125d238d4b3940a1cd52a27339f2d,
+        type: 3}
+      propertyPath: m_FontData.m_HorizontalOverflow
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3499054160966978263, guid: 7b1125d238d4b3940a1cd52a27339f2d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8786797990628794020, guid: 7b1125d238d4b3940a1cd52a27339f2d,
         type: 3}

@@ -16229,6 +16229,11 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: LoadNextScene
       objectReference: {fileID: 0}
+    - target: {fileID: 3499054159019393378, guid: 7b1125d238d4b3940a1cd52a27339f2d,
+        type: 3}
+      propertyPath: m_Text
+      value: You died!
+      objectReference: {fileID: 0}
     - target: {fileID: 3499054159196996608, guid: 7b1125d238d4b3940a1cd52a27339f2d,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
